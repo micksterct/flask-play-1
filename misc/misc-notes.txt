@@ -4,3 +4,6 @@ some notes go here
 second line
 
 third edit
+
+4th edit / . after switching to native instead of built in git client
+
