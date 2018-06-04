@@ -2,6 +2,9 @@
 #
 #  note: requires spark context
 #
+# see https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f
+#
+
 
 import random
 num_samples = 100000000
