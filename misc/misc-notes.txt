@@ -10,3 +10,7 @@ third edit
 
 
 6th edit - after update to version 2018.1  of pycharm
+
+
+#7th edit
+
