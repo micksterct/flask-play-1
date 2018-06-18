@@ -12,3 +12,7 @@ test   juypter notebooks within editor
 *Note: goes here.*
 
 ## More
+
+**Good resources** 
+
+https://scipython.com/book/
