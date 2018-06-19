@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7115f43c-c0ea-4ada-a796-74ed91aec948" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/misc/misc-notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/misc/misc-notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/stocks-play.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/stocks-play.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,20 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="stocks-play.ipynb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="stocks-play.ipynb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/notebooks/stocks-play.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="misc-notes.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/misc/misc-notes.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+              <selected id="33" />
             </state>
           </provider>
         </entry>
@@ -62,8 +52,8 @@
         <option value="$PROJECT_DIR$/calc-pi.py" />
         <option value="$PROJECT_DIR$/notebooks/MatplotlibExample.ipynb" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/notebooks/stocks-play.ipynb" />
         <option value="$PROJECT_DIR$/misc/misc-notes.txt" />
+        <option value="$PROJECT_DIR$/notebooks/stocks-play.ipynb" />
       </list>
     </option>
   </component>
@@ -98,17 +88,7 @@
             <path>
               <item name="flask-play-1" type="b2602c69:ProjectViewProjectNode" />
               <item name="flask-play-1" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flask-play-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flask-play-1" type="462c0819:PsiDirectoryNode" />
               <item name="misc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flask-play-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flask-play-1" type="462c0819:PsiDirectoryNode" />
-              <item name="notebooks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -490,12 +470,18 @@
       <option name="project" value="LOCAL" />
       <updated>1529378033101</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="more changes">
+      <created>1529378080567</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1529378080567</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="134" y="27" width="1400" height="987" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50285715" side_tool="true" weight="0.6696629" />
@@ -681,17 +667,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebooks/stocks-play.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/misc/misc-notes.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/stocks-play.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="33" />
         </state>
       </provider>
     </entry>
