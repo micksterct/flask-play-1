@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7115f43c-c0ea-4ada-a796-74ed91aec948" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/notebooks/plotly-play.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/MatplotlibExample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/MatplotlibExample.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/pandas-play.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/pandas-play.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/flask_play_1$pandas_play.coverage" NAME="pandas-play Coverage Results" MODIFIED="1531577040136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/flask_play_1$pandas_play.coverage" NAME="pandas-play Coverage Results" MODIFIED="1531602446282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/flask_play_1$calc_pi.coverage" NAME="calc-pi Coverage Results" MODIFIED="1529371900113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/flask_play_1$stocks_play.coverage" NAME="stocks=play Coverage Results" MODIFIED="1529372054918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/flask_play_1$flask_play_1.coverage" NAME="flask-play-1 Coverage Results" MODIFIED="1531576691250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
@@ -27,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/notebooks/pandas-play.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="37" />
+              <selected id="69" />
             </state>
           </provider>
         </entry>
@@ -58,6 +58,7 @@
         <option value="$PROJECT_DIR$/misc/misc-notes.txt" />
         <option value="$PROJECT_DIR$/notebooks/numpy=play.ipynb" />
         <option value="$PROJECT_DIR$/notebooks/stocks-play.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/plotly-play.ipynb" />
         <option value="$PROJECT_DIR$/notebooks/pandas-play.ipynb" />
       </list>
     </option>
@@ -531,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531576627369</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="more changes">
+      <created>1531580769004</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1531580769004</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -825,10 +833,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/plotly-play.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/notebooks/pandas-play.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="37" />
+          <selected id="69" />
         </state>
       </provider>
     </entry>
