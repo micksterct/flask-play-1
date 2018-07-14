@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7115f43c-c0ea-4ada-a796-74ed91aec948" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/notebooks/numpy=play.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/pandas-play.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/stocks-play.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/stocks-play.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/MatplotlibExample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/MatplotlibExample.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/pandas-play.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/pandas-play.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,46 +14,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/flask_play_1$pandas_play.coverage" NAME="pandas-play Coverage Results" MODIFIED="1531577040136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/flask_play_1$calc_pi.coverage" NAME="calc-pi Coverage Results" MODIFIED="1529371900113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/flask_play_1$stocks_play.coverage" NAME="stocks=play Coverage Results" MODIFIED="1529372054918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/flask_play_1$flask_play_1.coverage" NAME="flask-play-1 Coverage Results" MODIFIED="1529370436155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/flask_play_1$flask_play_1.coverage" NAME="flask-play-1 Coverage Results" MODIFIED="1531576691250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/flask_play_1$flask_play_2.coverage" NAME="flask-play-2 Coverage Results" MODIFIED="1528058207925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/flask_play_1$stocks_play___env_3_6_5_.coverage" NAME="stocks=play  (env 3.6.5) Coverage Results" MODIFIED="1531073837326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="stocks-play.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notebooks/stocks-play.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MatplotlibExample.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notebooks/MatplotlibExample.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="numpy=play.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notebooks/numpy=play.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file leaf-file-name="pandas-play.ipynb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/notebooks/pandas-play.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="1" />
+              <selected id="37" />
             </state>
           </provider>
         </entry>
@@ -83,8 +56,8 @@
         <option value="$PROJECT_DIR$/notebooks/MatplotlibExample.ipynb" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/misc/misc-notes.txt" />
-        <option value="$PROJECT_DIR$/notebooks/stocks-play.ipynb" />
         <option value="$PROJECT_DIR$/notebooks/numpy=play.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/stocks-play.ipynb" />
         <option value="$PROJECT_DIR$/notebooks/pandas-play.ipynb" />
       </list>
     </option>
@@ -178,7 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Unknown.flask-play-1929801606">
+  <component name="RunManager" selected="Jupyter Notebook.pandas-play">
     <configuration name="flask-play-1" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="flask-play-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,6 +160,23 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+    </configuration>
+    <configuration name="pandas-play" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="flask-play-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../py36-B/bin/python" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -300,6 +290,7 @@
     </configuration>
     <list>
       <item itemvalue="Jupyter Notebook.flask-play-1" />
+      <item itemvalue="Jupyter Notebook.pandas-play" />
       <item itemvalue="Jupyter Notebook.stocks=play  (env 3.6.5)" />
       <item itemvalue="Python.flask-play-2" />
       <item itemvalue="Python.calc-pi" />
@@ -533,19 +524,27 @@
       <option name="project" value="LOCAL" />
       <updated>1531073662978</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="more changes">
+      <created>1531576627369</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1531576627369</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="116" y="24" width="1400" height="987" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50285715" side_tool="true" weight="0.6696629" />
-      <window_info anchor="right" x="0" y="0" width="300" height="787" id="Documentation" order="6" side_tool="true" visible="true" />
+      <window_info anchor="right" x="0" y="0" width="300" height="787" id="Documentation" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49714285" weight="1.0" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32921347" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3741573" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3741573" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.26629212" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
@@ -611,6 +610,41 @@
     <option name="LAST_COMMIT_MESSAGE" value="more changes" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/notebooks/pandas-play.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/stocks-play.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/MatplotlibExample.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/numpy=play.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/pandas-play.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/notebooks/stocks-play.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -730,17 +764,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="425">
             <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -770,17 +804,17 @@
         <state relative-caret-position="-6426" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebooks/stocks-play.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/notebooks/MatplotlibExample.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/stocks-play.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="34" />
         </state>
       </provider>
     </entry>
@@ -794,7 +828,7 @@
     <entry file="file://$PROJECT_DIR$/notebooks/pandas-play.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="1" />
+          <selected id="37" />
         </state>
       </provider>
     </entry>
