@@ -23,6 +23,11 @@ https://scipython.com/book/
 excel with pandas 
 https://pythonspot.com/read-excel-with-pandas/
 
+Gantt charts in python 
+https://plot.ly/python/gantt/
+
+https://xael.org/pages/python-gantt-en.html
+
 
 =============================================
 
