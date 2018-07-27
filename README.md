@@ -12,6 +12,10 @@ test   juypter notebooks within editor
 
 ## More
 
+note: 
+nano ~/.jupyter/jupyter_notebook_config.py 
+
+
 
 =========================================================
 
