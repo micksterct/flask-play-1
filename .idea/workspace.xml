@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7115f43c-c0ea-4ada-a796-74ed91aec948" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/pandas-play.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/pandas-play.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/excel-play.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/excel-play.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,11 +22,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pandas-play.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pandas-play.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notebooks/pandas-play.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="excel-play.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/notebooks/excel-play.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="6" />
             </state>
           </provider>
         </entry>
@@ -58,8 +66,9 @@
         <option value="$PROJECT_DIR$/notebooks/numpy=play.ipynb" />
         <option value="$PROJECT_DIR$/notebooks/stocks-play.ipynb" />
         <option value="$PROJECT_DIR$/notebooks/plotly-play.ipynb" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/notebooks/pandas-play.ipynb" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/notebooks/excel-play.ipynb" />
       </list>
     </option>
   </component>
@@ -546,7 +555,35 @@
       <option name="project" value="LOCAL" />
       <updated>1531605484975</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="more changes">
+      <created>1532003059121</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1532003059121</updated>
+    </task>
+    <task id="LOCAL-00036" summary="first push">
+      <created>1532711487199</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1532711487199</updated>
+    </task>
+    <task id="LOCAL-00037" summary="first push">
+      <created>1532727054201</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1532727054201</updated>
+    </task>
+    <task id="LOCAL-00038" summary="first push">
+      <created>1532727062944</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1532727062944</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -621,7 +658,8 @@
     <MESSAGE value="findspark package added" />
     <MESSAGE value="added data files" />
     <MESSAGE value="more changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="more changes" />
+    <MESSAGE value="first push" />
+    <option name="LAST_COMMIT_MESSAGE" value="first push" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/notebooks/pandas-play.ipynb">
@@ -831,6 +869,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/pandas-play.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="71" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -839,17 +884,17 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="469">
-            <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <first_editor relative-caret-position="272">
+            <caret line="16" selection-start-line="16" selection-end-line="16" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebooks/pandas-play.ipynb">
+    <entry file="file://$PROJECT_DIR$/notebooks/excel-play.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="71" />
+          <selected id="6" />
         </state>
       </provider>
     </entry>
