@@ -16,8 +16,18 @@ note:
 nano ~/.jupyter/jupyter_notebook_config.py 
 
 
+---
 
-=========================================================
+**execution notes**
+
+export FLASK_ENV=development
+export FLASK_APP=app.py
+
+Ohter hints
+flask run    OR py -m flask run
+
+
+---
 
 
 **Good resources** 
@@ -32,8 +42,7 @@ https://plot.ly/python/gantt/
 
 https://xael.org/pages/python-gantt-en.html
 
-
-=============================================
+---
 
 to clean up 
 
