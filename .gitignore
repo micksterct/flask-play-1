@@ -12,3 +12,7 @@
 
 notebooks/.ipynb_checkpoints/*
 notebooks/.ipynb_checkpoints
+
+
+venv/*
+
