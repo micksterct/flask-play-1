@@ -1,0 +1,14 @@
+
+ General
+
+
+.DS_Store
+
+.AppleDouble
+
+.LSOverride
+
+# project specific
+
+notebooks/.ipynb_checkpoints/*
+notebooks/.ipynb_checkpoints
