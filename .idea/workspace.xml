@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7115f43c-c0ea-4ada-a796-74ed91aec948" name="Default" comment="expanded api sample">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/flask-play-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flask-play-1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask-play-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask-play-1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,9 @@
     <SUITE FILE_PATH="coverage/flask_play_1$calc_pi.coverage" NAME="calc-pi Coverage Results" MODIFIED="1529371900113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/flask_play_1$flask_play_2.coverage" NAME="flask-play-2 Coverage Results" MODIFIED="1528058207925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/flask_play_1$stocks_play.coverage" NAME="stocks=play Coverage Results" MODIFIED="1529372054918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="flask-play-1" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,6 +47,9 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="dukid0lv" />
+  </component>
   <component name="ProjectId" id="1a7griqHst8nQTqfNdC3kojgGmh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,11 +58,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TF_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -160,7 +170,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../flask-1/venv/bin/python" />
+      <option name="SDK_HOME" value="$USER_HOME$/.pyenv/versions/my-virtual-env-3.8.2/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -182,7 +192,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../flask-1/venv/bin/python" />
+      <option name="SDK_HOME" value="$USER_HOME$/.pyenv/versions/my-virtual-env-3.8.2/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -198,8 +208,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.flask-play-2" />
       <item itemvalue="Python.flask-play-1" />
+      <item itemvalue="Python.flask-play-2" />
       <item itemvalue="Python.calc-pi" />
     </list>
   </component>
@@ -217,7 +227,9 @@
       <workItem from="1554086297031" duration="78000" />
       <workItem from="1554086403140" duration="161000" />
       <workItem from="1563474156553" duration="3321000" />
-      <workItem from="1586092248084" duration="1275000" />
+      <workItem from="1586092248084" duration="2671000" />
+      <workItem from="1586128135529" duration="696000" />
+      <workItem from="1586129992216" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1528056907458</created>
@@ -557,6 +569,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Users/Mick/devel/py35-work/flask-play-1/templates" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -600,13 +637,50 @@
     <option name="LAST_COMMIT_MESSAGE" value="expanded api sample" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="390" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586092335536">
+    <state x="390" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586128766519">
       <screen x="41" y="23" width="1879" height="1057" />
     </state>
-    <state x="390" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog/41.23.1879.1057@41.23.1879.1057" timestamp="1586092335536" />
+    <state x="390" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog/41.23.1879.1057@41.23.1879.1057" timestamp="1586128766519" />
+    <state width="1358" height="311" key="GridCell.Tab.0.bottom" timestamp="1586128807490">
+      <screen x="41" y="23" width="1879" height="1057" />
+    </state>
+    <state width="1358" height="311" key="GridCell.Tab.0.bottom/41.23.1879.1057@41.23.1879.1057" timestamp="1586128807490" />
+    <state width="1358" height="311" key="GridCell.Tab.0.center" timestamp="1586128807490">
+      <screen x="41" y="23" width="1879" height="1057" />
+    </state>
+    <state width="1358" height="311" key="GridCell.Tab.0.center/41.23.1879.1057@41.23.1879.1057" timestamp="1586128807490" />
+    <state width="1358" height="311" key="GridCell.Tab.0.left" timestamp="1586128807490">
+      <screen x="41" y="23" width="1879" height="1057" />
+    </state>
+    <state width="1358" height="311" key="GridCell.Tab.0.left/41.23.1879.1057@41.23.1879.1057" timestamp="1586128807490" />
+    <state width="1358" height="311" key="GridCell.Tab.0.right" timestamp="1586128807490">
+      <screen x="41" y="23" width="1879" height="1057" />
+    </state>
+    <state width="1358" height="311" key="GridCell.Tab.0.right/41.23.1879.1057@41.23.1879.1057" timestamp="1586128807490" />
+    <state width="1358" height="334" key="GridCell.Tab.1.bottom" timestamp="1586128049604">
+      <screen x="41" y="23" width="1879" height="1057" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.1.bottom/41.23.1879.1057@41.23.1879.1057" timestamp="1586128049604" />
+    <state width="1358" height="334" key="GridCell.Tab.1.center" timestamp="1586128049604">
+      <screen x="41" y="23" width="1879" height="1057" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.1.center/41.23.1879.1057@41.23.1879.1057" timestamp="1586128049604" />
+    <state width="1358" height="334" key="GridCell.Tab.1.left" timestamp="1586128049604">
+      <screen x="41" y="23" width="1879" height="1057" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.1.left/41.23.1879.1057@41.23.1879.1057" timestamp="1586128049604" />
+    <state width="1358" height="334" key="GridCell.Tab.1.right" timestamp="1586128049604">
+      <screen x="41" y="23" width="1879" height="1057" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.1.right/41.23.1879.1057@41.23.1879.1057" timestamp="1586128049604" />
+    <state x="429" y="162" key="SettingsEditor" timestamp="1586128728526">
+      <screen x="41" y="23" width="1879" height="1057" />
+    </state>
+    <state x="429" y="162" key="SettingsEditor/41.23.1879.1057@41.23.1879.1057" timestamp="1586128728526" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/flask_play_1$flask_play_1.coverage" NAME="flask-play-1 Coverage Results" MODIFIED="1563476694522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask_play_1$flask_play_1.coverage" NAME="flask-play-1 Coverage Results" MODIFIED="1586127197400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask_play_1$flask_play_2.coverage" NAME="flask-play-2 Coverage Results" MODIFIED="1586128768399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="masterDetails">
     <states>
