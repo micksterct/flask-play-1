@@ -16,6 +16,7 @@ note:
 nano ~/.jupyter/jupyter_notebook_config.py 
 
 
+
 ---
 
 **execution notes**

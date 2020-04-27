@@ -9,6 +9,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
+    a=55
     return "Hello World  at 9000 !"
 
 if __name__ == '__main__':
